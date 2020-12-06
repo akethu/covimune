@@ -1,2 +1,2 @@
-# covimune
+# CovImune
 Medical Analysis Redefined
