@@ -3,7 +3,7 @@ Medical Analysis Redefined
 
 CovImune is an all-in-one medical dashboard to analyse, store, remind and share medical data among all hospitals.
 
-## Description
+## Getting Started
 
 ### 1. Visit Your Dashboard
 
@@ -42,6 +42,11 @@ I used the Endless Medical API for one of the analysers. I used icons8, unsplash
 ## What's next?
 
 I plan to add more different types of analysers and make the alerts and reminders operational.
+
+
+## License
+
+Distributed under the MIT License.
 
 
 ## Contact
