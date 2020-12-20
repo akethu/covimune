@@ -5,19 +5,19 @@ CovImune is an all-in-one medical dashboard to analyse, store, remind and share 
 
 ## Description
 
-### Visit Your Dashboard
+1. Visit Your Dashboard
 
 A personalized dashboard for personalized medical care.
 
-### Analyse or Upload Reports
+2. Analyse or Upload Reports
 
 You can use our built-in medical analyzers or upload medical reports to keep everything in one place.
 
-### Share, Set & Get Reminders
+3. Share, Set & Get Reminders
 
 Share your reports with hospitals. Make reminders and get alerts.
 
-### Universal Dashboard
+4. Universal Dashboard
 
 Store & share your reports and medical analyses with all hospitals hassle-free.
 
@@ -25,7 +25,7 @@ Store & share your reports and medical analyses with all hospitals hassle-free.
 
 ## Video Presentation
 
-https://youtu.be/ed5tl52Lpzk 
+Link: https://youtu.be/ed5tl52Lpzk 
 
 
 ## Inspiration
@@ -44,6 +44,7 @@ I used the Endless Medical API for one of the analysers. I used icons8, unsplash
 I plan to add more different types of analysers and make the alerts and reminders operational.
 
 
-## GitHub Page
+## Contact
 
-https://akethu.github.io/covimune/
+Email: akethu@umass.edu 
+Poject Link: https://akethu.github.io/covimune/
