@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/plasticine/60/000000/protection-mask.png"/> CovImune
+# <img src="https://img.icons8.com/plasticine/30/000000/protection-mask.png"/> CovImune
 Medical Analysis Redefined
 
 CovImune is an all-in-one medical dashboard to analyse, store, remind and share medical data among all hospitals.
