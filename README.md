@@ -1,5 +1,6 @@
 # <img src="https://img.icons8.com/plasticine/30/000000/protection-mask.png"/> CovImune
-Medical Analysis Redefined
+
+<strong>Medical Care Redefined</strong>
 
 CovImune is an all-in-one medical dashboard to analyse, store, remind and share medical data among all hospitals.
 
@@ -52,5 +53,4 @@ Distributed under the MIT License.
 ## Contact
 
 Email: akethu@umass.edu 
-
 Poject Link: https://akethu.github.io/covimune/
