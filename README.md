@@ -2,9 +2,9 @@
 
 <strong>Medical Care Redefined</strong>
 
-CovImune is an all-in-one medical dashboard to analyse, store, remind and share medical data among all hospitals.
+## Description
 
-## Getting Started
+<strong>CovImune is an all-in-one medical dashboard to analyse, store, remind and share medical data among all hospitals.</strong>
 
 ### 1. Visit Your Dashboard
 
@@ -31,7 +31,7 @@ Link: https://youtu.be/ed5tl52Lpzk
 
 ## Inspiration
 
-The lack of an all-purpose & all-in-one medical dashboard inspired me to work on CovImune. I have seem my own family and friends struggling to keep medical records, and the fact that every hospital has its own database makes it even more difficult for patients to keep track and submit records repeatedly.
+The lack of an all-purpose & all-in-one medical dashboard inspired me to work on CovImune. I have seem my own family and friends struggle to maintain medical records, and the fact that every hospital has its own database makes it even more difficult for patients to keep track and submit records repeatedly. With CovImune, every person can store all their medical records in one place, and subsequently share them with hospitals. It also has the added benefits of in-built analysers with alert and reminder facility.
 
 
 ## Built With:
