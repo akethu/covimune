@@ -24,6 +24,11 @@
 
 
 
+## Project Link
+
+Link: https://akethu.github.io/covimune/
+
+
 ## Video Presentation
 
 Link: https://youtu.be/ed5tl52Lpzk 
@@ -53,5 +58,3 @@ Distributed under the MIT License.
 ## Contact
 
 Email: akethu@umass.edu 
-
-Poject Link: https://akethu.github.io/covimune/
